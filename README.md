@@ -1,2 +1,2 @@
 # BookingApp
-Lets you to book a meeting if it has available slot - MVP
+Lets you book a meeting room if it has available slot - MVP
